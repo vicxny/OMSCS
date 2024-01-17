@@ -4,7 +4,7 @@ OMSCS	$6,500.00
 
 The OMS CS degree requires 30 hours (10 courses). 	
 
-## [Preparing Yourself for OMSCS]
+## [Preparing Yourself for OMSCS](https://omscs.gatech.edu/preparing-yourself-omscs)
   
 - [ ] [Introduction to Python Programming](https://www.edx.org/certificates/professional-certificate/the-georgia-institute-of-technology-introduction-to-python-programming)
 - [ ] [Introduction to Object-Oriented Programming with Java](https://www.edx.org/certificates/professional-certificate/gtx-introduction-to-object-oriented-programming-with-java)
@@ -21,7 +21,7 @@ The OMS CS degree requires 30 hours (10 courses).
 
 Core Courses (9 hours)			
 - [ ] CS 6515 Introduction to Graduate Algorithms			Hard
-- [ ] And, pick two (2) of:			
+      And, pick two (2) of:			
 - [ ] CS 6300 Software Development Process 			Easy
 - [ ] CS 6400 Database Systems Concepts and Design			
 			
