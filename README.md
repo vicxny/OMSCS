@@ -10,6 +10,9 @@ The OMS CS degree requires 30 hours (10 courses).
 - [ ] [Introduction to Object-Oriented Programming with Java](https://www.edx.org/certificates/professional-certificate/gtx-introduction-to-object-oriented-programming-with-java)
 - [ ] [Data Structures & Algorithms, CS1332: Data Structures & Algorithms at Georgia Tech](https://www.edx.org/certificates/professional-certificate/gtx-data-structures-and-algorithms)
 
+
+
+
 [r/OMSCS](https://www.reddit.com/r/OMSCS/)	
 
 [All My Course Notes - Happy New Years! : r/OMSCS](https://www.reddit.com/r/OMSCS/comments/18w0qs3/all_my_course_notes_happy_new_years/)
