@@ -4,7 +4,7 @@ OMSCS	$6,500.00
 
 The OMS CS degree requires 30 hours (10 courses). 	
 
-- [Preparing Yourself for OMSCS]
+## [Preparing Yourself for OMSCS]
   
 - [ ] [Introduction to Python Programming](https://www.edx.org/certificates/professional-certificate/the-georgia-institute-of-technology-introduction-to-python-programming)
 - [ ] [Introduction to Object-Oriented Programming with Java](https://www.edx.org/certificates/professional-certificate/gtx-introduction-to-object-oriented-programming-with-java)
@@ -13,7 +13,7 @@ The OMS CS degree requires 30 hours (10 courses).
 
 
 
-[r/OMSCS](https://www.reddit.com/r/OMSCS/)	
+## [r/OMSCS](https://www.reddit.com/r/OMSCS/)	
 
 [All My Course Notes - Happy New Years! : r/OMSCS](https://www.reddit.com/r/OMSCS/comments/18w0qs3/all_my_course_notes_happy_new_years/)
 			
