@@ -8,7 +8,7 @@ The OMS CS degree requires 30 hours (10 courses).
   
 - [ ] [Introduction to Python Programming](https://www.edx.org/certificates/professional-certificate/the-georgia-institute-of-technology-introduction-to-python-programming)
 - [ ] [Introduction to Object-Oriented Programming with Java](https://www.edx.org/certificates/professional-certificate/gtx-introduction-to-object-oriented-programming-with-java)
-- [ ] [Data Structures & Algorithms, CS1332: Data Structures & Algorithms at Georgia Tech](https://www.edx.org/certificates/professional-certificate/gtx-data-structures-and-algorithms)
+- [ ] [Data Structures & Algorithms, CS1332: Data Structures & Algorithms](https://www.edx.org/certificates/professional-certificate/gtx-data-structures-and-algorithms)
 
 
 
